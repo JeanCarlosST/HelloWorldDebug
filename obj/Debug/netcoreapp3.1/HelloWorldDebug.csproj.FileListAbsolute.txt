@@ -1,0 +1,13 @@
+C:\Users\Jean Carlos\OneDrive - Universidad Católica Nordestana (UCNE)\Programación aplicada\HelloWorldDebug\bin\Debug\netcoreapp3.1\HelloWorldDebug.exe
+C:\Users\Jean Carlos\OneDrive - Universidad Católica Nordestana (UCNE)\Programación aplicada\HelloWorldDebug\bin\Debug\netcoreapp3.1\HelloWorldDebug.deps.json
+C:\Users\Jean Carlos\OneDrive - Universidad Católica Nordestana (UCNE)\Programación aplicada\HelloWorldDebug\bin\Debug\netcoreapp3.1\HelloWorldDebug.runtimeconfig.json
+C:\Users\Jean Carlos\OneDrive - Universidad Católica Nordestana (UCNE)\Programación aplicada\HelloWorldDebug\bin\Debug\netcoreapp3.1\HelloWorldDebug.runtimeconfig.dev.json
+C:\Users\Jean Carlos\OneDrive - Universidad Católica Nordestana (UCNE)\Programación aplicada\HelloWorldDebug\bin\Debug\netcoreapp3.1\HelloWorldDebug.dll
+C:\Users\Jean Carlos\OneDrive - Universidad Católica Nordestana (UCNE)\Programación aplicada\HelloWorldDebug\bin\Debug\netcoreapp3.1\HelloWorldDebug.pdb
+C:\Users\Jean Carlos\OneDrive - Universidad Católica Nordestana (UCNE)\Programación aplicada\HelloWorldDebug\obj\Debug\netcoreapp3.1\HelloWorldDebug.csprojAssemblyReference.cache
+C:\Users\Jean Carlos\OneDrive - Universidad Católica Nordestana (UCNE)\Programación aplicada\HelloWorldDebug\obj\Debug\netcoreapp3.1\HelloWorldDebug.csproj.CoreCompileInputs.cache
+C:\Users\Jean Carlos\OneDrive - Universidad Católica Nordestana (UCNE)\Programación aplicada\HelloWorldDebug\obj\Debug\netcoreapp3.1\HelloWorldDebug.AssemblyInfoInputs.cache
+C:\Users\Jean Carlos\OneDrive - Universidad Católica Nordestana (UCNE)\Programación aplicada\HelloWorldDebug\obj\Debug\netcoreapp3.1\HelloWorldDebug.AssemblyInfo.cs
+C:\Users\Jean Carlos\OneDrive - Universidad Católica Nordestana (UCNE)\Programación aplicada\HelloWorldDebug\obj\Debug\netcoreapp3.1\HelloWorldDebug.dll
+C:\Users\Jean Carlos\OneDrive - Universidad Católica Nordestana (UCNE)\Programación aplicada\HelloWorldDebug\obj\Debug\netcoreapp3.1\HelloWorldDebug.pdb
+C:\Users\Jean Carlos\OneDrive - Universidad Católica Nordestana (UCNE)\Programación aplicada\HelloWorldDebug\obj\Debug\netcoreapp3.1\HelloWorldDebug.genruntimeconfig.cache
